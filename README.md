@@ -19,7 +19,7 @@ Install dependencies
 ```shell
  pip install -r requirements.txt  
 ```
-Run tests
+Install Modules for web
 ````
-
+yarn install
 ````
